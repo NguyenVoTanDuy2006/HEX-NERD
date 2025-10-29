@@ -20,13 +20,19 @@ A fully-featured clone of the popular word-guessing game, Wordle, built with Pyt
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
-## ✨ Key Features
+## Key Features
 
--   **Rich Graphical User Interface**: A polished and intuitive UI built with PyQt6.
--   **Dual Input Support**: Play using either your physical keyboard or the on-screen virtual keyboard.
--   **Dynamic Feedback**: Instant color-coded feedback for each guessed letter.
--   **State Management**: Includes "Give Up" functionality and a clear end-game dialog with an option to play again.
--   **Modular Architecture**: The code is cleanly separated into distinct modules for game logic, UI components, and configuration, making it easy to maintain and extend.
+-   **Unique Hybrid Gameplay**: A creative blend of two popular puzzle genres. It combines the color/code deduction of games like *Mastermind* with the mathematical logic challenges of *Nerdle*.
+
+-   **Strategic Clue System**: Instead of receiving passive hints, you must actively solve puzzles to earn them. This creates a compelling risk/reward system where every clue feels earned.
+
+-   **Two-Tiered Challenge**: The game tests multiple skills. First, your logical and numerical reasoning is challenged in the Nerdle minigames. Then, your deductive and pattern-recognition skills are put to the test in the final hex code guess.
+
+-   **Infinite Replayability**: With randomly generated secret hex codes and math problems for every new game, you get a fresh and unique challenge every time you play.
+
+-   **Clean and Responsive UI**: Built as a native desktop application using Python and PyQt6, the game features a clean, intuitive, and responsive user interface that makes playing seamless.
+
+-   **Well-Structured Codebase**: For developers, the project demonstrates strong software design principles by clearly separating the game logic from the UI, making the code easy to read, maintain, and build upon.
 
 ## 🛠️ Tech Stack
 
