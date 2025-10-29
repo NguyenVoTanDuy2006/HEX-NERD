@@ -1,4 +1,4 @@
-# Wordle Game with PyQt5
+# Hex-Nerd Game with PyQt5
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -67,7 +67,7 @@ You need to have **Git** and **`uv`** installed on your system.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/NguyenVoTanDuy2006/HEX-NERD.git
-    cd WORDLE
+    cd "HEX-NERD"
     ```
 
 2.  **Create and activate a virtual environment using `uv`:**
